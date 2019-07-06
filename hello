@@ -1,2 +1,3 @@
 printf("Enter the no:");
 scanf();
+printf("hello.......")
