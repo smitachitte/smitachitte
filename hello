@@ -1,2 +1,1 @@
-printf("Enter the no:");
-scanf();
+curl -u smitachitte https://api.github.com/user/repos -d '{"smitachitte":""}
